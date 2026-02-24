@@ -18,7 +18,7 @@
 
 <br/>
 
-### 📱 iOS
+### 📱 iOS Frameworks
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=for-the-badge&logo=swift&logoColor=white)
@@ -67,15 +67,6 @@ Published on the App Store — SwiftUI + MV architecture, push notifications, th
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toha-gornich&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toha-gornich&theme=github_dark&hide_border=true&layout=compact" height="160"/>
-</p>
-
-<br/>
-
 ## 📬 Contact
 
 <p align="center">
@@ -83,7 +74,7 @@ Published on the App Store — SwiftUI + MV architecture, push notifications, th
     <img src="https://img.shields.io/badge/Email-hornihanton@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="tel:+380980176407">
-    <img src="https://img.shields.io/badge/Phone-+380980176407-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Phone-+380980176407-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
