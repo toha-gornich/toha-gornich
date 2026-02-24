@@ -13,7 +13,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,firebase,git,github,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=swift,xcode,firebase,git,github,figma,postman" />
 </p>
 
 <br/>
@@ -72,9 +72,6 @@ Published on the App Store — SwiftUI + MV architecture, push notifications, th
 <p align="center">
   <a href="mailto:hornihanton@gmail.com">
     <img src="https://img.shields.io/badge/Email-hornihanton@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="tel:+380980176407">
-    <img src="https://img.shields.io/badge/Phone-+380980176407-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
